@@ -1,3 +1,2 @@
 # ESE571-lab
-Group work repo
-Welcome!
+Group work repo,Welcome!
